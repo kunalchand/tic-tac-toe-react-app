@@ -1,6 +1,6 @@
-# to-do-react-app
+# tic-tac-toe-react-app
 
-To-Do Application in React JS
+Tic-Tac-Toe Game Application in React JS
 
 - Lets you play tic-tac-toe,
 - Indicates when a player has won the game or if its a tie,
